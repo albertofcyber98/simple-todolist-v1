@@ -1,0 +1,20 @@
+.formInput{
+    text-align: center;
+}
+.formInput input{
+    padding: 8px;
+    font-size: 18px;
+    border: 1px solid rgb(15, 155, 155);
+}
+.formInput button{
+    margin-left: 10px;
+    padding: 10px 24px;
+    border: none;
+    font-size: 18px;
+    color: white;
+    background-color: rgb(15, 155, 155);
+}
+.formInput button:hover{
+    background-color: rgb(14, 110, 110);
+    cursor: pointer;
+}
